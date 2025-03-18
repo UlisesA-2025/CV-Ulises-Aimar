@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.foto-perfil {
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.seccion a img{
+    width: 30px;
+    height:30px;
+    margin-right:10px;
+}
+
+.contenedor{
+    width: 60%;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+
+h1, h2{
+    color: #333;
+}
+
+.cabeza{
+    text-align: center;
+}
+
+.seccion{
+    margin-bottom: 20px;
+}
+
+.seccion h2{
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+.contacto p{
+    margin: 5px 0;
+}
